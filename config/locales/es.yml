@@ -1,0 +1,219 @@
+es:
+  title: 'Seatrade Europe - Proveyendo produtos frescos y ricos para familias en todo el mundo'
+  navbar:
+    home: 'Inicio'
+    about_us: 'Sobre Nosotros'
+    products: 'Productos'
+    brands: 'Marcas'
+    contact: 'Contacto'
+    english: "Inglés"
+    spanish: "Español"
+
+  footer:
+    about_us:
+      'Sobre Nosotros'
+    contact:
+      'Contacto'
+    desc:
+      'Seatrade se especializa en el crecimiento, proceso y comercio mundial de hortalizas, verduras y frutas estratégicas.
+       Nuestro sede está en Londres pero nuestra gama de comercio es global.'
+    address:
+      title: 'Dirección'
+      address: 'Allen House New Spitalfields Market, 23 Sherrin Rd, London E10 5SQ, United Kingdom'
+    telephone: 'Telefono'
+    links:
+      'Enlaces'
+    mail:
+      accounts:
+        'Cuentas'
+      sales:
+        'Ventas'
+      logistics:
+        'Logistica'
+    copyright:
+      'Copyright © 2020. Creado por Tarek Elkelani'
+  about_us:
+    whoarewe:
+      title:
+        "Quien es Seatrade Europe?"
+      desc:
+        "Seatrade Europe es un sucursal de Seatrade Group que hace negocios y operaciones en 6 continentes y más de 20 países.
+         Con redes fuertes a tráves del mundo, la empresa posee la experiencia para encontrar y ascender a los produtos de la más alta calidad."
+    vision:
+      title:
+        "Nuestro visión y filosofía"
+      desc:
+        "Nosotros en Seatrade somos comprometidos a prestar produtos gastronomicos frescos y saborosos a las familias. Entregaremos marcas consistentes en calidad para satisfacer los exigos del cliente, mientras que fijamos en la sostenibilidad de la tierra."
+    principles:
+      title: 'Principios Guía'
+      desc:
+        'El compromiso con la calidad es nuestro objetivo. Las demandas de nuestros consumidores, la innovación continua y el excelente servicio nos motivan.
+         A nuestros asociados profesionales les apasiona ser los que rinden mejor y se enorgullecen de brindar excelencia a nuestros clientes, manteniendo los mejores intereses de los productores.'
+    social_responsibility:
+      title: 'Responsibilidades Sociales'
+      desc: 'Gente… Comunidades… Sostenibilidad de la Tierra En Seatrade Europe, nuestros esfuerzos están orientados a crear y preservar empleos. Trabajamos en estrecha colaboración con nuestros productores para mejorar la calidad y los volúmenes, preservando el medio ambiente y reduciendo el uso de pesticidas.
+'
+  home:
+    welcome:
+      'Bienvenido a Seatrade Europe'
+    our_products: 'Nuestros Productos '
+    carousel:
+      slide1:
+        title:
+          'Frutas'
+        desc:
+          'Frutas frescas de España, Holandia y Marruecos'
+      slide2:
+        title:
+          'Verduras'
+        desc:
+          'Verduras frescas de España, Holandia y Marruecos'
+
+  products:
+    title:
+      'Productos'
+    variety: 'Variedad'
+    CO: 'Países'
+    sizes: 'Tallas'
+    pack: 'Paquete'
+    unit_weight: 'Unidad de peso'
+    back: '< Atrás'
+    fruits:
+      name: 'Frutas'
+      citrus: 'Cidro'
+      watermelons:
+        name: 'Sandía'
+      tomatoes:
+        name: 'Tomatoes'
+        loose:
+          name: 'Suelta'
+          variety: 'Varios'
+          CO: 'España, Marruecos, Holandia'
+          sizes: 'MM, M, G'
+          pack: '6kg'
+        vine:
+          name: 'Vino'
+          variety: 'Varios'
+          CO: 'España, Marruecos, Holandia'
+          sizes: 'MM,L'
+          pack: '6kg'
+      other_fruit: 'Otras Frutas'
+      oranges:
+        name: 'Naranjas'
+        variety: 'Naval, Valencia, Navellina'
+        CO: 'España, Egipto'
+        sizes: '36,42,48,54,60,72,80,90,100'
+        pack: '15kg Caja Abierta, 15kg Telescópico'
+      tangerines:
+        name: 'Mandarinas'
+        variety: 'Varios'
+        CO: 'España'
+        sizes: 'Varios'
+        pack: '10kg'
+      lemons:
+        name: 'Limónes'
+        variety: 'Eureka, Primafori, Verna, Bosque Portugués'
+        CO: 'España, Turquía, Egipto'
+        sizes: 'Varios'
+        pack: '6kg, 9kg, 15kg'
+      limes:
+        name: 'Limas'
+        variety: 'Varios'
+        CO: 'España, México'
+        sizes: '42,48,54,60,72'
+        pack: '4.5kg'
+      satsumas:
+        name: 'Satsumas'
+        variety: 'Varios'
+        CO: 'España'
+        sizes: 'Varios'
+        pack: '10kg'
+      white_grapes: 'Uvas Blancas'
+      red_grapes: 'Uvas Rojas'
+      pomegranates: 'Granadas'
+    vegetables:
+      title: 'Verduras'
+      capsicums:
+        name: 'Pimiento'
+        red:
+          name: 'Pimiento Rojo'
+          variety: 'California'
+          CO: 'España, Holandia, Marruecos'
+          unit_weight: '5kg'
+          sizes: 'MM, M, G, GG'
+        green:
+          name: 'Pimiento Verde'
+          variety: 'California'
+          CO: 'España, Holandia, Marruecos'
+          unit_weight: '5kg'
+          sizes: 'MM, M, G, GG'
+        yellow:
+          name: 'Pimiento Amarillo'
+          variety: 'California'
+          CO: 'Spain, Holland, Morocco'
+          unit_weight: '5kg'
+          sizes: 'MM, M, G, GG'
+      chillies:
+        name: 'Chiles'
+        red:
+          name: 'Chile Rojo'
+          CO: 'España, Egipto, Marruecos'
+          unit_weight: '3kg, 4kg'
+        habanero:
+          name: 'Chile Habanero'
+          CO: 'España, Uganda'
+          unit_weight: '3kg, 4kg'
+      onions:
+        title: 'Cebollas'
+        red:
+          name: 'Cebollas Rojas'
+          variety: 'Italia'
+          CO: 'Egipto'
+          sizes: '60/80 - 80/100'
+          pack: '10kg y al por mayor'
+        spanish:
+          name: 'Cebollas Españolas'
+          variety: 'Recca, Grano'
+          CO: 'España'
+          sizes: '60/80 - 80/100'
+          pack: '10KG y al por mayor'
+
+      other_veg:
+        title: 'Otras Verduras'
+        courgette:
+          name: 'Calabacín'
+          CO: 'España, Holandia, Marruecos'
+          unit_weight: '5kg'
+          sizes: '14/18, 14/21'
+        sweet_potato:
+          name: 'Batata'
+          variety: 'Beauguard, Covington'
+          CO: 'España, Egipto'
+          sizes: 'S, M, L, XL, XXL'
+          pack: '6kg y al por mayor'
+        cucumbers:
+          name: 'Pepino'
+          CO: 'España, Holandia, Marruecos'
+          unit_weight: '5kg, cubierto'
+          sizes: '12G,12M,12P,14,16'
+        aubergines:
+          name: 'Berenjenas'
+          CO: 'España, Holandia, Marruecos'
+          unit_weight: '5kg, Cubierta de poliéster'
+          sizes: 'P,M,G'
+        butternut_squash:
+          name: 'Zapallo Anco'
+          CO: 'España, Portugal'
+          sizes: 'S, M, L, XL'
+          pack: '10kg y al por mayor'
+        lettuce:
+          name: 'Lechuga'
+          CO: 'España'
+          sizes: '10,12'
+    view_products:
+      'Ver colección'
+
+  brands:
+    title: 'Marcas'
+  contact_us:
+    title: 'Contáctenos'

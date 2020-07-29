@@ -1,0 +1,289 @@
+# Files in the config/locales directory are used for internationalization
+# and are automatically loaded by Rails. If you want to use locales other
+# than English, add the necessary files in this directory.
+#
+# To use the locales, use `I18n.t`:
+#
+#     I18n.t 'hello'
+#
+# In views, this is aliased to just `t`:
+#
+#     <%= t('hello') %>
+#
+# To use a different locale, set it with `I18n.locale`:
+#
+#     I18n.locale = :es
+#
+# This would use the information in config/locales/es.yml.
+#
+# The following keys must be escaped otherwise they will not be retrieved by
+# the default I18n backend:
+#
+# true, false, on, off, yes, no
+#
+# Instead, surround them with single quotes.
+#
+# en:
+#   'true': 'foo'
+#
+# To learn more, please read the Rails Internationalization guide
+# available at https://guides.rubyonrails.org/i18n.html.
+
+# Files in the config/locales directory are used for internationalization
+# and are automatically loaded by Rails. If you want to use locales other
+# than English, add the necessary files in this directory.
+#
+# To use the locales, use `I18n.t`:
+#
+#     I18n.t 'hello'
+#
+# In views, this is aliased to just `t`:
+#
+#     <%= t('hello') %>
+#
+# To use a different locale, set it with `I18n.locale`:
+#
+#     I18n.locale = :es
+#
+# This would use the information in config/locales/es.yml.
+#
+# The following keys must be escaped otherwise they will not be retrieved by
+# the default I18n backend:
+#
+# true, false, on, off, yes, no
+#
+# Instead, surround them with single quotes.
+#
+# en:
+#   'true': 'foo'
+#
+# To learn more, please read the Rails Internationalization guide
+# available at http://guides.rubyonrails.org/i18n.html.
+
+en:
+  title: 'Seatrade Europe - Providing fresh, great tasting products for families worldwide'
+  navbar:
+    home: 'Home'
+    about_us: 'About Us'
+    products: 'Products'
+    brands: 'Brands'
+    contact: 'Contact'
+    english: 'English'
+    spanish: 'Spanish'
+
+  footer:
+    about_us:
+      'About Us'
+    contact:
+      'Contact'
+    desc:
+      'Seatrade specializes in growing, processing and global trading of strategic crops and fresh fruits and Vegetables.
+       Our headquarters are in London and trade on a global level.'
+    address:
+      title: 'Address'
+      address: 'Allen House New Spitalfields Market, 23 Sherrin Rd, London E10 5SQ, United Kingdom'
+    telephone: 'Telephone'
+
+    links:
+      'Links'
+    mail:
+      accounts:
+        'Accounts'
+      sales:
+        'Sales'
+      logistics:
+        'Logistics'
+    copyright:
+      'Copyright © 2020. Created by Tarek Elkelani'
+
+  about_us:
+    whoarewe:
+      title:
+        "Who is Seatrade Europe?"
+      desc:
+        "Seatrade Europe is part of the Seatrade Group which currently trades and operates in 6 continents and over 20 countries.
+         With strong business networks across the globe, the company possesses the expertise to source and promote the highest quality products."
+    vision:
+      title:
+        "Our Vision and Philosophy"
+      desc:
+        "We at Seatrade are committed to providing fresh, great tasting Food products to today’s families. We will deliver brands that are consistent in quality to meet our customer’s expectations while focusing on the earth sustainability."
+    principles:
+      title: 'Guiding Principles'
+      desc:
+        'Commitment to quality is our goal. We are driven by our consumers demand, continuous innovation and excellent service. Our associates are passionate about being the best performers and take pride in delivering excellence to our customers while maintaining superior shareholder value.'
+    social_responsibility:
+      title: 'Social Responsibility'
+      desc: 'People…Communities…Earth sustainability
+                 At Seatrade, our efforts are towards creating and preserving jobs, enhancing our role in our community and preserving the environment.
+                 We have been in the animal protein business since 1972, our long term commitment is to improve our business globally for many years to come, we are committed to Fisheries and the earth sustainability, also to preserving the environment and to reducing the use of pesticides.
+                 At Seatrade, we seek sound growth through practical, proactive decision making. Sustainability is a fundamental value in achieving our company initiatives.'
+
+  home:
+    welcome:
+      'Welcome To Seatrade Europe'
+    our_products: 'Our Products'
+    carousel:
+      slide1:
+        title:
+          'Fruits'
+        desc:
+          'Fresh fruits from Spain, Holland and Morocco.'
+      slide2:
+        title:
+          'Vegetables'
+        desc:
+          'Fresh vegetables from Spain, Holland and Morocco'
+
+  products:
+    title:
+      'Products'
+    variety: 'Variety'
+    CO: 'Countries'
+    sizes: 'Sizes'
+    pack: 'Pack'
+    unit_weight: 'Unit Weight'
+    back: '< Back'
+
+    fruits:
+      name: 'Fruits'
+      citrus: 'Citrus'
+      watermelons:
+        name: 'Watermelon'
+      tomatoes:
+        name: 'Tomatoes'
+        loose:
+          name: 'Loose'
+          variety: 'Various'
+          CO: 'Spain, Morocco, Holland'
+          sizes: 'MM, M, G'
+          pack: '6kg'
+        vine:
+          name: 'Vine'
+          variety: 'Various'
+          CO: 'Spain, Morocco, Holland'
+          sizes: 'MM,L'
+          pack: '6kg'
+      other_fruit: 'Other Fruit'
+      oranges:
+        name: 'Oranges'
+        variety: 'Naval, Valencia, Navellina'
+        CO: 'Spain, Egypt'
+        sizes: '36,42,48,54,60,72,80,90,100'
+        pack: '15kg Open Top, 15kg Telescopic'
+      tangerines:
+        name: 'Tangerines'
+        variety: 'Various'
+        CO: 'Spain'
+        sizes: 'Various'
+        pack: '10kg'
+      lemons:
+        name: 'Lemons'
+        variety: 'Eureka, Primafori, Verna, Portuguese Forest'
+        CO: 'Spain, Turkey, Egypt '
+        sizes: 'Various'
+        pack: '6kg, 9kg, 15kg'
+      limes:
+        name: 'Limes'
+        variety: 'Various'
+        CO: 'Spain, Mexico'
+        sizes: '42,48,54,60,72'
+        pack: '4.5kg'
+      satsumas:
+        name: 'Satsumas'
+        variety: 'Various'
+        CO: 'Spain'
+        sizes: 'Various'
+        pack: '10kg'
+      white_grapes: 'White Grapes'
+      red_grapes: 'Red Grapes'
+      pomegranates: 'Pomegranate'
+    vegetables:
+      title: 'Vegetables'
+      capsicums:
+        name: 'Capsicums'
+        red:
+          name: 'Red Capsicum'
+          variety: 'California'
+          CO: 'Spain, Holland, Morocco'
+          unit_weight: '5kg'
+          sizes: 'MM, M, G, GG'
+        green:
+          name: 'Green Capsicum'
+          variety: 'California'
+          CO: 'Spain, Holland, Morocco'
+          unit_weight: '5kg'
+          sizes: 'MM, M, G, GG'
+        yellow:
+          name: 'Yellow Capsicum'
+          variety: 'California'
+          CO: 'Spain, Holland, Morocco'
+          unit_weight: '5kg'
+          sizes: 'MM, M, G, GG'
+      chillies:
+        name: 'Chillies'
+        red:
+          name: 'Red Chillis'
+          CO: 'Spain, Morocco, Egypt'
+          unit_weight: '3kg, 4kg'
+        habanero:
+          name: 'Habanero'
+          CO: 'Spain, Uganda'
+          unit_weight: '3kg, 4kg'
+      onions:
+        title: 'Onions'
+        red:
+          name: 'Red Onions'
+          variety: 'Italia'
+          CO: 'Egypt'
+          sizes: '60/80 - 80/100'
+          pack: '10kg and bulk'
+        spanish:
+          name: 'Spanish Onions'
+          variety: 'Recca, Grano'
+          CO: 'Spain'
+          sizes: '60/80 - 80/100'
+          pack: '10KG and bulk'
+      other_veg:
+        title: 'Other Vegetables'
+        courgette:
+          name: 'Courgette'
+          CO: 'Spain, Holland, Morocco'
+          unit_weight: '5kg'
+          sizes: '14/18, 14/21'
+        sweet_potato:
+          name: 'Sweet Potato'
+          variety: 'Beauguard, Covington'
+          CO: 'Spain, Egypt'
+          sizes: 'S, M, L, XL, XXL'
+          pack: '6kg and bulk'
+        cucumbers:
+          name: 'Cucumbers'
+          CO: 'Spain, Holland, Morroco'
+          unit_weight: '5kg, filmed'
+          sizes: '12G,12M,12P,14,16'
+        aubergines:
+          name: 'Aubergines'
+          CO: 'Spain, Holland, Morocco'
+          unit_weight: '5kg, poly wrapped'
+          sizes: 'P,M,G'
+        butternut_squash:
+          name: 'Butternut Squash'
+          CO: 'Spain, Portugal'
+          sizes: 'S, M, L, XL'
+          pack: '10kg and bulk'
+        lettuce:
+          name: 'Lettuce'
+          CO: 'Spain'
+          sizes: '10,12'
+    view_products:
+      'View Collection'
+
+  brands:
+    title: 'Brands'
+    saturn:
+      description: 'We pick & pack all of our fruits and vegetables at the peak of freshness to lock in the vitamins, antioxidants and essential nutrients.
+                    To ensure the highest quality we start our traceability process from the field, ensuring that it is inspected and checked for quality and grading several times through the process of reaching the supply chain.
+                    Our brands mission is to deliver the freshest quality products to your dinner table and beyond.'
+  contact_us:
+    title: 'Contact Us'

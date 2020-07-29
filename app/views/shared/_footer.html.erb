@@ -1,0 +1,74 @@
+<style>
+.footer{
+  background-color: #c4d600;
+  border-top: 2px solid #9619bf;
+}
+
+.middle{
+  padding-top: 2%;
+  padding-left: 10%;
+  font-family: 'MuseoModerno', cursive;
+  color: rgb(20, 79, 168);
+}
+
+.end{
+  padding-top: 2%;
+  padding-left: 5%;
+  font-family: 'MuseoModerno', cursive;
+  color: rgb(20, 79, 168);
+}
+
+.middle-content{
+  list-style-type: none;
+
+}
+
+@media (max-width: 667px){
+  .img-fluid{
+    height: 100px;
+    align-items: center;
+  }
+  .end{
+    padding-top: 2%;
+    padding-left: 5%;
+    font-family: 'MuseoModerno', cursive;
+    color: rgb(20, 79, 168);
+    padding-left: 35%;
+  }
+}
+
+
+</style>
+
+<div class="container-fluid footer">
+  <div class="row">
+    <div class="col-sm-4 col-md-3 text-center">
+      <%= link_to image_tag("seatradelogo.svg", class: "img-fluid"), root_path %>
+    </div>
+    <div class="col-sm-4 col-md-6 middle">
+      <div class="row">
+        <%= t('footer.copyright') %>
+      </div>
+      <div class="row" style="margin-top: 50px;">
+        <div class="col">
+          <i class="fab fa-facebook-f fa-2x"></i>
+        </div>
+        <div class="col">
+          <i class="fab fa-twitter fa-2x"></i>
+        </div>
+        <div class="col">
+          <i class="fab fa-linkedin-in fa-2x"></i>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-sm-4 col-md-3 end">
+      <div class="row">
+        <%= t('footer.telephone') %>:
+      </div>
+      <div class="row">
+        +44 (0) 208 558 4328
+      </div>
+    </div>
+  </div>
+</div>
